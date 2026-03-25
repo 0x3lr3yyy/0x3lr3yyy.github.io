@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on 3lr3yNvrD13</title><link>https://0x3lr3yyy.github.io/research/</link><description>Recent content in Research on 3lr3yNvrD13</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>walidfatach@gmail.com (super3lr3y)</managingEditor><webMaster>walidfatach@gmail.com (super3lr3y)</webMaster><copyright>© 2026 super3lr3y</copyright><lastBuildDate>Wed, 20 Mar 2024 10:00:00 +0000</lastBuildDate><atom:link href="https://0x3lr3yyy.github.io/research/index.xml" rel="self" type="application/rss+xml"/><item><title>REST API Security Analysis</title><link>https://0x3lr3yyy.github.io/research/api-security-analysis/</link><pubDate>Wed, 20 Mar 2024 10:00:00 +0000</pubDate><author>walidfatach@gmail.com (super3lr3y)</author><guid>https://0x3lr3yyy.github.io/research/api-security-analysis/</guid><description>&lt;h2 class="relative group"&gt;Overview
+ &lt;div id="overview" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#overview" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;REST APIs are everywhere in modern applications. This research explores common security pitfalls&amp;hellip;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Authentication Issues
+ &lt;div id="authentication-issues" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#authentication-issues" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;One of the most common issues found in API security is&amp;hellip;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Authorization Flaws
+ &lt;div id="authorization-flaws" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#authorization-flaws" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Broken Object Level Authorization (BOLA) remains a top vulnerability&amp;hellip;&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Writeups on 3lr3yNvrD13</title><link>https://0x3lr3yyy.github.io/writeups/</link><description>Recent content in Writeups on 3lr3yNvrD13</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>walidfatach@gmail.com (super3lr3y)</managingEditor><webMaster>walidfatach@gmail.com (super3lr3y)</webMaster><copyright>© 2026 super3lr3y</copyright><lastBuildDate>Mon, 25 Mar 2024 10:00:00 +0000</lastBuildDate><atom:link href="https://0x3lr3yyy.github.io/writeups/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Bug Bounty Writeup</title><link>https://0x3lr3yyy.github.io/writeups/first-writeup/</link><pubDate>Mon, 25 Mar 2024 10:00:00 +0000</pubDate><author>walidfatach@gmail.com (super3lr3y)</author><guid>https://0x3lr3yyy.github.io/writeups/first-writeup/</guid><description>&lt;h2 class="relative group"&gt;Introduction
+ &lt;div id="introduction" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#introduction" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;This is my first bug bounty writeup. In this post, I&amp;rsquo;ll walk you through a cross-site scripting (XSS) vulnerability I discovered&amp;hellip;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Discovery
+ &lt;div id="discovery" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#discovery" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;While testing the application, I noticed that the search functionality was reflecting user input without proper sanitization&amp;hellip;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Exploitation
+ &lt;div id="exploitation" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#exploitation" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;The payload I used was:&lt;/p&gt;</description></item></channel></rss>
